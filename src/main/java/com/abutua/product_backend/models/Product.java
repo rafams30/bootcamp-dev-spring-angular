@@ -61,7 +61,7 @@ public class Product {
         this.description = description;
     }
 
-    public Category getIdCategory() {
+    public Category getCategory() {
         return category;
     }
 
